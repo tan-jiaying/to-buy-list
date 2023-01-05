@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ToBuyList</string>
+    <string name="item_name_hint">Enter a name for the item.</string>
+    <string name="item_name_label">Item Name</string>
+    <string name="item_details_label">Details</string>
+    <string name="item_bought_before_label">Buy Before:</string>
+    <string name="item_quantity_label">Quantity:</string>
+    <string name="item_bought_label">Bought</string>
+    <string name="date_picker_title">Buy Before:</string>
+    <string name="time_picker_title">Time:</string>
+    <string name="quantity_picker_title">Quantity:</string>
+    <string name="new_item">New Item</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d items</string>
+    <string name="item_helper_text">Choose Person To Help Buy</string>
+    <string name="item_report_text">Send Item Report</string>
+    <string name="item_report">%1$s!
+        The item needs to be bought before %2$s. %3$s, and %4$s
+    </string>
+    <string name="item_report_bought">The item is bought</string>
+    <string name="item_report_not_bought">The item is not bought</string>
+    <string name="item_report_no_helper">there is no one that helped to buy.</string>
+    <string name="item_report_helper">the person that helped to buy is %s.</string>
+    <string name="item_report_subject">ToBuyList Item Report</string>
+    <string name="send_report">Send item report via</string>
+    <string name="delete_item">Delete Item</string>
+</resources>
+
+
